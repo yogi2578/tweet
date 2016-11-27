@@ -1,0 +1,17 @@
+branch-defaults:
+  default:
+    environment: flask4
+    group_suffix: null
+environment-defaults:
+  flask4:
+    branch: null
+    repository: null
+global:
+  application_name: flask4
+  branch: null
+  default_ec2_keyname: null
+  default_platform: python2.7
+  default_region: us-west-2
+  profile: null
+  repository: null
+  sc: null
